@@ -1,0 +1,27 @@
+
+node_modules/
+dist/
+.idea/
+logs/
+
+*.log
+*.iml
+build.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.yarn-integrity
+.vscode-test
+# yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# General
+*.DS_Store
+.DS_Store
+.AppleDouble
+.LSOverride
+
