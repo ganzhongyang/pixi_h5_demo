@@ -1,0 +1,92 @@
+{"frames": {
+
+"fish81_1.png":
+{
+	"frame": {"x":1,"y":292,"w":340,"h":296},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":77,"y":42,"w":340,"h":296},
+	"sourceSize": {"w":450,"h":350}
+},
+"fish81_2.png":
+{
+	"frame": {"x":1138,"y":294,"w":380,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":54,"y":45,"w":380,"h":298},
+	"sourceSize": {"w":450,"h":350}
+},
+"fish81_3.png":
+{
+	"frame": {"x":777,"y":1,"w":375,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":75,"y":49,"w":375,"h":291},
+	"sourceSize": {"w":450,"h":350}
+},
+"fish81_4.png":
+{
+	"frame": {"x":1,"y":1,"w":381,"h":289},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":51,"w":381,"h":289},
+	"sourceSize": {"w":450,"h":350}
+},
+"fish81_5.png":
+{
+	"frame": {"x":745,"y":294,"w":391,"h":297},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":44,"w":391,"h":297},
+	"sourceSize": {"w":450,"h":350}
+},
+"fish81_6.png":
+{
+	"frame": {"x":343,"y":294,"w":400,"h":295},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":43,"w":400,"h":295},
+	"sourceSize": {"w":450,"h":350}
+},
+"fish81_7.png":
+{
+	"frame": {"x":1520,"y":296,"w":380,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":45,"w":380,"h":298},
+	"sourceSize": {"w":450,"h":350}
+},
+"fish81_8.png":
+{
+	"frame": {"x":1540,"y":1,"w":417,"h":293},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":33,"y":47,"w":417,"h":293},
+	"sourceSize": {"w":450,"h":350}
+},
+"fish81_9.png":
+{
+	"frame": {"x":1154,"y":1,"w":384,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":49,"w":384,"h":291},
+	"sourceSize": {"w":450,"h":350}
+},
+"fish81_10.png":
+{
+	"frame": {"x":384,"y":1,"w":391,"h":291},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":50,"w":391,"h":291},
+	"sourceSize": {"w":450,"h":350}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fish80.png",
+	"format": "RGBA8888",
+	"size": {"w":1958,"h":595},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:865e91c40f19da01371cce40caeb2767:652ee0cfef182d380d43ed1acd6378e3:f859623491654443c2cf265616ddea28$"
+}
+}

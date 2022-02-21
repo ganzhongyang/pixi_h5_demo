@@ -1,0 +1,108 @@
+{"frames": {
+
+"barbette_00.png":
+{
+	"frame": {"x":401,"y":1,"w":197,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":197,"h":102},
+	"sourceSize": {"w":200,"h":103}
+},
+"barbette_01.png":
+{
+	"frame": {"x":401,"y":105,"w":197,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":197,"h":102},
+	"sourceSize": {"w":200,"h":103}
+},
+"barbette_02.png":
+{
+	"frame": {"x":600,"y":1,"w":197,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":197,"h":102},
+	"sourceSize": {"w":200,"h":103}
+},
+"barbette_03.png":
+{
+	"frame": {"x":1,"y":1,"w":198,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":198,"h":102},
+	"sourceSize": {"w":200,"h":103}
+},
+"barbette_04.png":
+{
+	"frame": {"x":1,"y":105,"w":198,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":198,"h":102},
+	"sourceSize": {"w":200,"h":103}
+},
+"barbette_05.png":
+{
+	"frame": {"x":600,"y":105,"w":197,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":197,"h":102},
+	"sourceSize": {"w":200,"h":103}
+},
+"barbette_06.png":
+{
+	"frame": {"x":799,"y":1,"w":197,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":197,"h":102},
+	"sourceSize": {"w":200,"h":103}
+},
+"barbette_07.png":
+{
+	"frame": {"x":201,"y":1,"w":198,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":198,"h":102},
+	"sourceSize": {"w":200,"h":103}
+},
+"barbette_08.png":
+{
+	"frame": {"x":799,"y":105,"w":197,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":197,"h":102},
+	"sourceSize": {"w":200,"h":103}
+},
+"barbette_09.png":
+{
+	"frame": {"x":998,"y":1,"w":197,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":197,"h":102},
+	"sourceSize": {"w":200,"h":103}
+},
+"barbette_10.png":
+{
+	"frame": {"x":201,"y":105,"w":198,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":198,"h":102},
+	"sourceSize": {"w":200,"h":103}
+},
+"barbette_11.png":
+{
+	"frame": {"x":998,"y":105,"w":197,"h":102},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":197,"h":102},
+	"sourceSize": {"w":200,"h":103}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "barbette.png",
+	"format": "RGBA8888",
+	"size": {"w":1196,"h":208},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:df301423c6835f2714b9cd0b08e50c76:33e14e49174b4562f48d7cb45547261e:f93961a6c1061596f8646405f3ad1098$"
+}
+}

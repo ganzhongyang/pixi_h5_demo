@@ -1,0 +1,174 @@
+{
+  "skeleton": {
+    "hash": "IKgE08AOroTdwbZZJhS1+/l8xs8",
+    "spine": "3.7.94",
+    "width": 104.67,
+    "height": 108.46
+  },
+  "bones": [
+    {
+      "name": "root"
+    },
+    {
+      "name": "sound",
+      "parent": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "sound2",
+      "bone": "sound",
+      "attachment": "sound2_red"
+    },
+    {
+      "name": "2",
+      "bone": "sound",
+      "attachment": "2"
+    },
+    {
+      "name": "3",
+      "bone": "sound",
+      "attachment": "3"
+    },
+    {
+      "name": "4",
+      "bone": "sound",
+      "attachment": "4"
+    },
+    {
+      "name": "5",
+      "bone": "sound"
+    },
+    {
+      "name": "wenhao",
+      "bone": "root",
+      "attachment": "wenhao"
+    }
+  ],
+  "skins": {
+    "default": {
+      "2": {
+        "2": {
+          "x": -11.74,
+          "y": -1.8,
+          "width": 35,
+          "height": 49
+        }
+      },
+      "3": {
+        "3": {
+          "x": 15.04,
+          "y": -2.39,
+          "width": 9,
+          "height": 21
+        }
+      },
+      "4": {
+        "4": {
+          "x": 23.34,
+          "y": -1.86,
+          "width": 11,
+          "height": 32
+        }
+      },
+      "5": {
+        "5": {
+          "x": 24,
+          "y": -1.5,
+          "width": 29,
+          "height": 66
+        }
+      },
+      "sound2": {
+        "sound2_red": {
+          "width": 104,
+          "height": 107
+        }
+      },
+      "wenhao": {
+        "wenhao": {
+          "x": -0.7,
+          "y": -0.12,
+          "scaleX": 0.904,
+          "scaleY": 0.904,
+          "width": 115,
+          "height": 120
+        }
+      }
+    }
+  },
+  "animations": {
+    "animation": {
+      "slots": {
+        "2": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": null
+            }
+          ]
+        },
+        "3": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": null
+            }
+          ]
+        },
+        "4": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": null
+            }
+          ]
+        },
+        "sound2": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": null
+            }
+          ]
+        }
+      }
+    },
+    "music": {
+      "slots": {
+        "3": {
+          "attachment": [
+            {
+              "time": 0.3333,
+              "name": null
+            },
+            {
+              "time": 0.6667,
+              "name": "3"
+            }
+          ]
+        },
+        "4": {
+          "attachment": [
+            {
+              "time": 0.3333,
+              "name": null
+            },
+            {
+              "time": 1,
+              "name": "4"
+            }
+          ]
+        },
+        "wenhao": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": null
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{"frames": {
+
+"fish72_1.png":
+{
+	"frame": {"x":1134,"y":377,"w":366,"h":377},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":13,"w":366,"h":377},
+	"sourceSize": {"w":390,"h":390}
+},
+"fish72_2.png":
+{
+	"frame": {"x":1,"y":378,"w":370,"h":377},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":13,"w":370,"h":377},
+	"sourceSize": {"w":390,"h":390}
+},
+"fish72_3.png":
+{
+	"frame": {"x":378,"y":1,"w":374,"h":376},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":14,"w":374,"h":376},
+	"sourceSize": {"w":390,"h":390}
+},
+"fish72_4.png":
+{
+	"frame": {"x":1,"y":1,"w":375,"h":375},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":14,"w":375,"h":375},
+	"sourceSize": {"w":390,"h":390}
+},
+"fish72_5.png":
+{
+	"frame": {"x":1513,"y":373,"w":368,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":12,"w":368,"h":374},
+	"sourceSize": {"w":390,"h":390}
+},
+"fish72_6.png":
+{
+	"frame": {"x":1510,"y":1,"w":370,"h":372},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":12,"w":370,"h":372},
+	"sourceSize": {"w":390,"h":390}
+},
+"fish72_7.png":
+{
+	"frame": {"x":380,"y":377,"w":371,"h":373},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":12,"w":371,"h":373},
+	"sourceSize": {"w":390,"h":390}
+},
+"fish72_8.png":
+{
+	"frame": {"x":756,"y":1,"w":375,"h":374},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":12,"w":375,"h":374},
+	"sourceSize": {"w":390,"h":390}
+},
+"fish72_9.png":
+{
+	"frame": {"x":1133,"y":1,"w":374,"h":375},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":14,"w":374,"h":375},
+	"sourceSize": {"w":390,"h":390}
+},
+"fish72_10.png":
+{
+	"frame": {"x":755,"y":377,"w":367,"h":377},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":13,"w":367,"h":377},
+	"sourceSize": {"w":390,"h":390}
+}},
+"animations": {
+	"fish72": ["fish72_1.png","fish72_2.png","fish72_3.png","fish72_4.png","fish72_5.png","fish72_6.png","fish72_7.png","fish72_8.png","fish72_9.png","fish72_10.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fish72.png",
+	"format": "RGBA8888",
+	"size": {"w":1883,"h":749},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:11910042e91f642eda78be9d07ce6dd2:a76b5f8258b5e2f8458a5922d202bc61:0fad29a8acefdb904edf55ec7d59b3c3$"
+}
+}

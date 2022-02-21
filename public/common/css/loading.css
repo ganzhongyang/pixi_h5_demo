@@ -1,0 +1,135 @@
+.loading-text {
+    font-size: 6.2rem;
+    font-weight: 700;
+    color: #ffffff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: .8;
+    animation: 1.5s font linear infinite;
+}
+
+.circle_wrap {
+    width: 50rem;
+    height: 50rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -25rem;
+    margin-top: -25rem;
+    display: inline-block;
+    border-radius: 50%;
+    border: 0.5rem solid #00a4ff;
+    box-shadow: 0 0 5rem #00a4ff inset, 0 0 1rem #00a4ff;
+    animation: 3s circle_rotate linear infinite;
+}
+
+.circle_wrap .circle_inside {
+    width: 38rem;
+    height: 38rem;
+    border-radius: 50%;
+    border: 0.5rem solid #00a4ff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 0.8rem #00a4ff inset, 0 0 0.8rem #00a4ff;
+    clip-path: polygon(40% 0, 0 0, 50% 100%, 0 100%, 100% 35%, 100% 75%);
+}
+
+.circle_wrap .circle_outside {
+    width: 29.2rem;
+    height: 29.6rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.circle_outside .wrapper {
+    position: absolute;
+    width: 14.6rem;
+    height: 30rem;
+    overflow: hidden;
+}
+
+.circle_outside .right {
+    right: 0;
+}
+
+.circle_outside .left {
+    left: 0;
+}
+
+.circle_outside .circle {
+    width: 28rem;
+    height: 28rem;
+    border: 0.8rem solid transparent;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    transform: rotate(-135deg);
+}
+
+.circle_outside .rightcircle {
+    border-top: 0.8rem solid #00a4ff;
+    border-right: 0.8rem solid #00a4ff;
+    box-shadow: 0 0 0.4rem #00a4ff inset;
+    right: 0;
+    animation: 5s circle_right linear infinite;
+}
+
+.circle_outside .leftcircle {
+    border-bottom: 0.8rem solid #00a4ff;
+    border-left: 0.8rem solid #00a4ff;
+    box-shadow: 0 0 0.4rem #00a4ff inset;
+    left: 0;
+    animation: 5s circle_left linear infinite;
+}
+
+@keyframes circle_right {
+    0% {
+        transform: rotate(-135deg);
+    }
+    50%, 100% {
+        transform: rotate(45deg);
+    }
+}
+
+@keyframes circle_left {
+    0%, 50% {
+        transform: rotate(-135deg);
+    }
+    100% {
+        transform: rotate(45deg);
+    }
+}
+
+@keyframes circle_rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes font {
+    0% {
+        opacity: .9;
+    }
+    25% {
+        opacity: .2;
+    }
+    50% {
+        opacity: .9;
+    }
+    75% {
+        opacity: .2;
+    }
+    100% {
+        opacity: .9;
+    }
+}
+

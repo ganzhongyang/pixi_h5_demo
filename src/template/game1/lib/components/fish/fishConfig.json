@@ -1,0 +1,64 @@
+[
+  {
+    "fishName": "animation_fish72",
+    "x": 960,
+    "y": 540,
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "from": {
+      "x": -300,
+      "y": 540
+    },
+    "to": {
+      "x": 2300,
+      "y": 540
+    },
+    "animationSpeed": 0.2,
+    "cd": 12000,
+    "bloodVolume": 5
+  },
+  {
+    "fishName": "animation_fish80",
+    "x": 111,
+    "y": 540,
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "from": {
+      "x": -300,
+      "y": 540
+    },
+    "to": {
+      "x": 2300,
+      "y": 540
+    },
+    "animationSpeed": 0.2,
+    "cd": 12000,
+    "bloodVolume": 5
+  },
+  {
+    "fishName": "animation_fish73",
+    "x": 1500,
+    "y": 540,
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "from": {
+      "x": -300,
+      "y": 540
+    },
+    "to": {
+      "x": 2300,
+      "y": 540
+    },
+    "animationSpeed": 0.2,
+    "cd": 12000,
+    "bloodVolume": 5
+  }
+]
+
+

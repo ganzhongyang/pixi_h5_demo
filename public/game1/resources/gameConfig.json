@@ -1,0 +1,18 @@
+[
+  {
+    "path": "./resources/images/bg.jpg",
+    "key": "image_bg",
+    "name": "bg.png"
+  },
+  {
+    "path": "./resources/audios/bgm.mp3",
+    "key": "audio_bgm",
+    "name": "bgm.mp3"
+  },
+  {
+    "path": "./resources/animation/bangzhu.json",
+    "key": "animation_bangzhu",
+    "name": "bangzhu.json",
+    "level": "bangzhu"
+  }
+]

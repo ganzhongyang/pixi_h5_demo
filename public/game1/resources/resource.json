@@ -1,0 +1,82 @@
+[
+  {
+    "path": "./resources/images/bg.png",
+    "key": "image_bg",
+    "name": "bg.png"
+  },
+  {
+    "path": "./resources/images/gameBg.jpg",
+    "key": "image_gameBg",
+    "name": "gameBg.jpg"
+  },
+  {
+    "path": "./resources/images/bullet_1.png",
+    "key": "image_bullet_1",
+    "name": "bullet_1.png"
+  },
+  {
+    "path": "./resources/audios/bgm.mp3",
+    "key": "audio_bgm",
+    "name": "bgm.mp3"
+  },
+  {
+    "path": "./resources/audios/fight.mp3",
+    "key": "audio_fight",
+    "name": "fight.mp3"
+  },
+  {
+    "path": "./resources/audios/bwc.mp3",
+    "key": "audio_bwc",
+    "name": "bwc.mp3"
+  },
+  {
+    "path": "./resources/audios/shoot.mp3",
+    "key": "audio_shoot",
+    "name": "shoot.mp3"
+  },
+  {
+    "path": "./resources/animation/bangzhu.json",
+    "key": "animation_bangzhu",
+    "name": "bangzhu.json"
+  },
+  {
+    "path": "./resources/animation/barbette.json",
+    "key": "animation_barbette",
+    "name": "barbette.json"
+  },
+  {
+    "path": "./resources/animation/gun_body.json",
+    "key": "animation_gun_body",
+    "name": "gun_body.json"
+  },
+  {
+    "path": "./resources/animation/fish16.json",
+    "key": "animation_fish16",
+    "name": "fish16.json"
+  },
+  {
+    "path": "./resources/animation/fish72.json",
+    "key": "animation_fish72",
+    "name": "fish72.json"
+  },
+  {
+    "path": "./resources/animation/fish73.json",
+    "key": "animation_fish73",
+    "name": "fish73.json"
+  },
+  {
+    "path": "./resources/animation/fish80.json",
+    "key": "animation_fish80",
+    "name": "fish80.json"
+  },
+  {
+    "path": "./resources/animation/wing5.json",
+    "key": "animation_wing5",
+    "name": "wing5.json"
+  },
+  {
+    "path": "./resources/animation/wing2.json",
+    "key": "animation_wing2",
+    "name": "wing2.json"
+  }
+]
